@@ -7,4 +7,6 @@
   * [w3cschool.cc](http://www.w3cschool.cc) W3C综合教程
   * [哈弗大学公开课：构建动态网站](http://v.163.com/special/opencourse/buildingdynamicwebsites.html) 
   * [PHP最佳实践](http://phpbestpractices.justjavac.com/) 简短精悍的实用教程
+* Laravel4教程
+  * [Laravel4函数手册](http://cheats.jesse-obrien.ca/) 比较全面的手册
   
